@@ -24,4 +24,5 @@ docker run dockerfile-use-nodejs-with-specified-version-demo
 输出：
 
 ```
+v10.9.0
 ```
