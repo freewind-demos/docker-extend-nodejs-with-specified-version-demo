@@ -12,7 +12,7 @@ FROM docker run node:10.9.0
 Build：
 
 ```
-docker build -t my-node-10.9.0
+docker build .
 ```
 
 运行:
